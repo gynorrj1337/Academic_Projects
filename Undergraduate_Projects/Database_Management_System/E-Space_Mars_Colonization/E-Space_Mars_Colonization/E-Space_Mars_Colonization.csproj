@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF528B14-9A2B-48CF-AD77-1AF90F600F26}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>E_Space_Mars_Colonization</RootNamespace>
+    <AssemblyName>E-Space_Mars_Colonization</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddMember_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMember_Form.Designer.cs">
+      <DependentUpon>AddMember_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Colonist_Job_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colonist_Job_Management.Designer.cs">
+      <DependentUpon>Colonist_Job_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Colonist_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colonist_Management.Designer.cs">
+      <DependentUpon>Colonist_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Colonist_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colonist_Report.Designer.cs">
+      <DependentUpon>Colonist_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Colony_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colony_Report.Designer.cs">
+      <DependentUpon>Colony_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard_Form.Designer.cs">
+      <DependentUpon>DashBoard_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard_Profile_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard_Profile_Form.Designer.cs">
+      <DependentUpon>DashBoard_Profile_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dependent_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dependent_Management.Designer.cs">
+      <DependentUpon>Dependent_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EJet_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EJet_Management.Designer.cs">
+      <DependentUpon>EJet_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EJet_Pilot_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EJet_Pilot_Management.Designer.cs">
+      <DependentUpon>EJet_Pilot_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedBack_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedBack_Form.Designer.cs">
+      <DependentUpon>FeedBack_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="House_Assignment_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="House_Assignment_Management.Designer.cs">
+      <DependentUpon>House_Assignment_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jet_Assignment_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jet_Assignment_Management.Designer.cs">
+      <DependentUpon>Jet_Assignment_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jet_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jet_Report.Designer.cs">
+      <DependentUpon>Jet_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Job_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Job_Management.Designer.cs">
+      <DependentUpon>Job_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Job_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Job_Report.Designer.cs">
+      <DependentUpon>Job_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Form.Designer.cs">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Management_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Management_Form.Designer.cs">
+      <DependentUpon>Management_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mars_Colony_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mars_Colony_Management.Designer.cs">
+      <DependentUpon>Mars_Colony_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report_Form.Designer.cs">
+      <DependentUpon>Report_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trip_Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trip_Management.Designer.cs">
+      <DependentUpon>Trip_Management.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trip_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trip_Report.Designer.cs">
+      <DependentUpon>Trip_Report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddMember_Form.resx">
+      <DependentUpon>AddMember_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colonist_Job_Management.resx">
+      <DependentUpon>Colonist_Job_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colonist_Management.resx">
+      <DependentUpon>Colonist_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colonist_Report.resx">
+      <DependentUpon>Colonist_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colony_Report.resx">
+      <DependentUpon>Colony_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard_Form.resx">
+      <DependentUpon>DashBoard_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard_Profile_Form.resx">
+      <DependentUpon>DashBoard_Profile_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dependent_Management.resx">
+      <DependentUpon>Dependent_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EJet_Management.resx">
+      <DependentUpon>EJet_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EJet_Pilot_Management.resx">
+      <DependentUpon>EJet_Pilot_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedBack_Form.resx">
+      <DependentUpon>FeedBack_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="House_Assignment_Management.resx">
+      <DependentUpon>House_Assignment_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jet_Assignment_Management.resx">
+      <DependentUpon>Jet_Assignment_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jet_Report.resx">
+      <DependentUpon>Jet_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Job_Management.resx">
+      <DependentUpon>Job_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Job_Report.resx">
+      <DependentUpon>Job_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Form.resx">
+      <DependentUpon>Login_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Management_Form.resx">
+      <DependentUpon>Management_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mars_Colony_Management.resx">
+      <DependentUpon>Mars_Colony_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report_Form.resx">
+      <DependentUpon>Report_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trip_Management.resx">
+      <DependentUpon>Trip_Management.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trip_Report.resx">
+      <DependentUpon>Trip_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

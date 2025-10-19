@@ -1,0 +1,148 @@
+
+/* Reset styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Product Sans', Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Flex container for the layout */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Align items to the top */
+    padding: 50px 20px;
+    flex-wrap: wrap; /* Allow content to wrap on smaller screens */
+}
+
+/* Left and Right section */
+.left-section, .right-section {
+    width: 48%;
+}
+
+/* Centering the header on top */
+.header {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4A4A4A;
+    margin-bottom: 40px;
+    letter-spacing: 1px;
+    text-align: center;
+    width: 100%;
+}
+
+/* Message styles */
+.message {
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+.success {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+/* Pricing table styles */
+.pricing-table {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    overflow-x: auto;
+}
+
+.pricing-table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.pricing-table th, .pricing-table td {
+    padding: 14px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.pricing-table th {
+    background-color: #4285F4;
+    color: white;
+}
+
+.pricing-table td {
+    font-size: 16px;
+}
+
+/* Form container styles */
+.form-container {
+    width: 100%;
+    max-width: 650px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.form-container h3 {
+    font-size: 30px;
+    color: #4A4A4A;
+    margin-bottom: 20px;
+}
+
+.form-container input,
+.form-container textarea,
+.form-container select {
+    width: 100%;
+    padding: 14px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: border-color 0.3s ease;
+}
+
+.form-container input:focus,
+.form-container textarea:focus,
+.form-container select:focus {
+    border-color: #4285F4;
+}
+
+.form-container input[type="submit"] {
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 12px;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.form-container input[type="submit"]:hover {
+    background-color: #357ae8;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 14px;
+    color: #777;
+}

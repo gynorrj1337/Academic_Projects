@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grifindo_Lanka_Toys_Admin", "Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin.csproj", "{E90A4739-5B12-4935-83DE-6CF1698DB728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E90A4739-5B12-4935-83DE-6CF1698DB728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E90A4739-5B12-4935-83DE-6CF1698DB728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E90A4739-5B12-4935-83DE-6CF1698DB728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E90A4739-5B12-4935-83DE-6CF1698DB728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E207BD78-F298-4044-8AAC-A9657EB39FC1}
+	EndGlobalSection
+EndGlobal

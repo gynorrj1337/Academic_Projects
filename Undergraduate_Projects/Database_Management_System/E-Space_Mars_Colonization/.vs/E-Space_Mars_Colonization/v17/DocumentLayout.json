@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DB\\E-Space_Mars_Colonization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|e:\\db\\e-space_mars_colonization\\e-space_mars_colonization\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colony_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colony_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colony_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colony_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\ejet_pilot_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\ejet_pilot_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\ejet_pilot_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\ejet_pilot_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\ejet_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\ejet_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\ejet_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\ejet_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\dependent_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\dependent_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\dependent_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\dependent_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\dashboard_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\dashboard_profile_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\dashboard_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_job_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_job_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\colonist_job_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\colonist_job_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\addmember_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\addmember_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|E:\\DB\\E-Space_Mars_Colonization\\e-space_mars_colonization\\addmember_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF528B14-9A2B-48CF-AD77-1AF90F600F26}|E-Space_Mars_Colonization\\E-Space_Mars_Colonization.csproj|solutionrelative:e-space_mars_colonization\\addmember_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Login_Form.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Login_Form.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Login_Form.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Login_Form.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:31:41.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EJet_Pilot_Management.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAI0BAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EJet_Management.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\EJet_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Management.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\EJet_Management.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAAALcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Colony_Report.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colony_Report.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colony_Report.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colony_Report.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colony_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colony_Report.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colony_Report.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colony_Report.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colony_Report.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colony_Report.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAcwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-14T05:23:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EJet_Pilot_Management.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\EJet_Pilot_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Pilot_Management.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\EJet_Pilot_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EJet_Management.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\EJet_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\EJet_Management.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\EJet_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dependent_Management.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dependent_Management.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Dependent_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Dependent_Management.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Dependent_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashBoard_Profile_Form.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\DashBoard_Profile_Form.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\DashBoard_Profile_Form.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\DashBoard_Profile_Form.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\DashBoard_Profile_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DashBoard_Form.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\DashBoard_Form.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\DashBoard_Form.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\DashBoard_Form.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\DashBoard_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Colonist_Report.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Colonist_Report.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Report.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Report.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Colonist_Management.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "ViewState": "AQIAAFUCAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Colonist_Management.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Management.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Colonist_Job_Management.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAMwA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colonist_Job_Management.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\Colonist_Job_Management.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\Colonist_Job_Management.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\Colonist_Job_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddMember_Form.cs",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddMember_Form.cs [Design]",
+              "DocumentMoniker": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "RelativeDocumentMoniker": "E-Space_Mars_Colonization\\AddMember_Form.cs",
+              "ToolTip": "E:\\DB\\E-Space_Mars_Colonization\\E-Space_Mars_Colonization\\AddMember_Form.cs [Design]",
+              "RelativeToolTip": "E-Space_Mars_Colonization\\AddMember_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T05:23:25.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

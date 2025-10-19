@@ -1,0 +1,40 @@
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe.config
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.pdb
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Properties.Resources.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.GenerateResource.Cache
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.exe
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.pdb
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.AssemblyReference.cache
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.CoreCompileInputs.cache
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Registration_Form.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.StudentMenu.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.DashBoard_Form.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Login_Form.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Search_Form.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.DashBoard.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.AddMember_Form.resources
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe.manifest
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.application
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.exe.manifest
+C:\Users\Code Maestro\Desktop\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.application
+G:\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe.config
+G:\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe.manifest
+G:\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.application
+G:\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.exe
+G:\Student Management System\SM_Application\SM_Application\bin\Debug\SM_Application.pdb
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.AssemblyReference.cache
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.AddMember_Form.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.DashBoard.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.DashBoard_Form.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Login_Form.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Properties.Resources.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Registration_Form.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.Search_Form.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.StudentMenu.resources
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.GenerateResource.cache
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.csproj.CoreCompileInputs.cache
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.exe.manifest
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.application
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.exe
+G:\Student Management System\SM_Application\SM_Application\obj\Debug\SM_Application.pdb

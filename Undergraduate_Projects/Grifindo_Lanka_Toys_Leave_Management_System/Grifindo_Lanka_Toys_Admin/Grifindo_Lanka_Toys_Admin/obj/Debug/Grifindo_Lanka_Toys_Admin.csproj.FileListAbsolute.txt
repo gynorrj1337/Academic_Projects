@@ -1,0 +1,40 @@
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.exe.config
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.exe
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.pdb
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.AssemblyReference.cache
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.DashBoard_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Login_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Properties.Resources.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.GenerateResource.cache
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.CoreCompileInputs.cache
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.exe
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.pdb
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.DashBoard_Profile_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Employee_Management_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Management_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Register_Employee_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Leave_Policy_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Roster_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Leave_Approval_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Employee_Leave_Report_Form.resources
+C:\Users\Code Maestro\source\repos\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Report_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.exe.config
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.exe
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\bin\Debug\Grifindo_Lanka_Toys_Admin.pdb
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.AssemblyReference.cache
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.DashBoard_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.DashBoard_Profile_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Employee_Leave_Report_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Employee_Management_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Leave_Approval_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Leave_Policy_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Login_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Management_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Properties.Resources.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Register_Employee_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Report_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.Roster_Form.resources
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.GenerateResource.cache
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.csproj.CoreCompileInputs.cache
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.exe
+G:\Programming\Grifindo Lanka Toys\Grifindo_Lanka_Toys_Admin\Grifindo_Lanka_Toys_Admin\obj\Debug\Grifindo_Lanka_Toys_Admin.pdb
